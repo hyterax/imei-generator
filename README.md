@@ -1,2 +1,4 @@
-# imei-generator
-IMEI generator by TAC
+# IMEI-Generator
+
+1. IMEI generator by TAC
+#Free
